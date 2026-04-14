@@ -30,6 +30,6 @@
     "semver": "^7.7.3"
   },
   "devDependencies": {
-    "babel-plugin-inferno": "^6.8.4"
+    "babel-plugin-inferno": "^6.8.5"
   }
 }

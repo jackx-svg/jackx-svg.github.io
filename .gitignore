@@ -1,6 +1,7 @@
 .DS_Store
 Thumbs.db
 db.json
+blog_maintenance_manual.md
 *.log
 node_modules/
 public/
